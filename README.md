@@ -46,4 +46,41 @@ Project Organization
     └── test_model.py                     <- Test models
 --------
 
+## Installation Guide
+
+### Step 1 : Clone the Repository
+
+Clone the repository using the following command.
+
+````
+$ git clone https://github.com/Laknath1996/DeepPhaseUnwrap.git
+````
+
+### Step 2 : Install Dependencies
+
+The use the `requirements.txt` file given in the repository to install the dependencies via `pip`.
+
+````
+$ pip install -r requirements.txt 
+````
+
+## Tutorial
+
+`notebooks/tutorial.ipynb` describes the execution steps of the network. 
+
+## Authors
+
+* **Ashwin De Silva**
+* **Malsha Perera** 
+
+At the time of this work, both the authors were with the Department of Electronics and Telecommunication Engineering, University of Moratuwa, Sri Lanka.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+## Acknowledgments
+
+* Biomedical Engineering Laboratory, Dept. of Electronic and Telecommunication Eng., University of Moratuwa, Sri Lanka.
+
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
