@@ -1,12 +1,33 @@
 A Joint Convolutional and Space Quad-Directional LSTM Network for Phase Unwrapping
 ==============================
 
+<center>
+<table>
+  <tr>
+    <td align="center" valign="top"><img src="{{site.url}}/images/projects1.png" width="396" height="300" /></td>
+    <td align="center" valign="top"><img src="{{site.url}}/images/projects6.png" width="513" height="300" /></td>
+  </tr>
+    <tr>
+    <td align="center">TMA maps</td>
+    <td align="center">Active dry-contact sEMG sensors</td>
+  </tr>
+ </table>
+</center>
+
 This repository contains the source code for the deep neural arcihetcure proposed by the ICASSP 2021 paper titled ["A Joint Convolutional and Space Quad-Directional LSTM Network for Phase Unwrapping"](https://ieeexplore.ieee.org/document/9414748). 
 
 If you use this code/paper for your research, please cite our paper:
 
 ```
-@INPROCEEDINGS{9414748,  author={Perera, Malsha V. and De Silva, Ashwin},  booktitle={ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},   title={A Joint Convolutional and Spatial Quad-Directional LSTM Network for Phase Unwrapping},   year={2021},  volume={},  number={},  pages={4055-4059},  doi={10.1109/ICASSP39728.2021.9414748}}
+@INPROCEEDINGS{9414748,  
+author={Perera, Malsha V. and De Silva, Ashwin},  
+booktitle={ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},   
+title={A Joint Convolutional and Spatial Quad-Directional LSTM Network for Phase Unwrapping},   
+year={2021},  
+volume={},  
+number={},  
+pages={4055-4059},  
+doi={10.1109/ICASSP39728.2021.9414748}}
 ```
 
 Project Organization
