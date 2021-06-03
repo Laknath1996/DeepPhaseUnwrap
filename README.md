@@ -77,7 +77,7 @@ Use the `create_synthetic_phase_dataset.py`, `train_model.py` and `test_model.py
 * **Ashwin De Silva** - ashwindesilva@yahoo.com
 * **Malsha Perera** - malshaperera14@gmail.com
 
-At the time of this work, both the authors were with the Department of Electronics and Telecommunication Engineering, University of Moratuwa, Sri Lanka.
+At the time of this work, both the authors were with the Department of Electronics and Telecommunication Engineering, University of Moratuwa, Sri Lanka. Feel free to contact the authors regarding this work.
 
 ## License
 
@@ -89,6 +89,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## References
 
-[[1]] M. V. Perera and A. De Silva, "A Joint Convolutional and Spatial Quad-Directional LSTM Network for Phase Unwrapping," ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021, pp. 4055-4059, doi: 10.1109/ICASSP39728.2021.9414748.
+[1] M. V. Perera and A. De Silva, "A Joint Convolutional and Spatial Quad-Directional LSTM Network for Phase Unwrapping," ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021, pp. 4055-4059, doi: 10.1109/ICASSP39728.2021.9414748.
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
