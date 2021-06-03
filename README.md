@@ -7,7 +7,7 @@ A Joint Convolutional and Space Quad-Directional LSTM Network for Phase Unwrappi
 
 This repository contains the source code for the deep neural arcihetcure proposed by the ICASSP 2021 paper titled ["A Joint Convolutional and Space Quad-Directional LSTM Network for Phase Unwrapping"](https://ieeexplore.ieee.org/document/9414748). 
 
-If you use this code/paper for your research, please cite our paper:
+If you use this code/paper for your research, please consider citing,
 
 ```
 @INPROCEEDINGS{9414748,  
@@ -74,8 +74,8 @@ Use the `create_synthetic_phase_dataset.py`, `train_model.py` and `test_model.py
 
 ## Authors
 
-* **Ashwin De Silva**
-* **Malsha Perera** 
+* **Ashwin De Silva** - ashwindesilva@yahoo.com
+* **Malsha Perera** - malshaperera14@gmail.com
 
 At the time of this work, both the authors were with the Department of Electronics and Telecommunication Engineering, University of Moratuwa, Sri Lanka.
 
@@ -86,5 +86,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 * Biomedical Engineering Laboratory, Dept. of Electronic and Telecommunication Eng., University of Moratuwa, Sri Lanka.
+
+## References
+
+[[1]] M. V. Perera and A. De Silva, "A Joint Convolutional and Spatial Quad-Directional LSTM Network for Phase Unwrapping," ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021, pp. 4055-4059, doi: 10.1109/ICASSP39728.2021.9414748.
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
