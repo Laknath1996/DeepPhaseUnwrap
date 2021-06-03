@@ -1,18 +1,9 @@
 A Joint Convolutional and Space Quad-Directional LSTM Network for Phase Unwrapping
 ==============================
 
-<center>
-<table>
-  <tr>
-    <td align="center" valign="top"><img src="{{site.url}}/images/projects1.png" width="396" height="300" /></td>
-    <td align="center" valign="top"><img src="{{site.url}}/images/projects6.png" width="513" height="300" /></td>
-  </tr>
-    <tr>
-    <td align="center">TMA maps</td>
-    <td align="center">Active dry-contact sEMG sensors</td>
-  </tr>
- </table>
-</center>
+<p align="center">
+  <img src="https://github.com/Laknath1996/DeepPhaseUnwrap/blob/main/reports/figures/summary.jpg">
+</p>
 
 This repository contains the source code for the deep neural arcihetcure proposed by the ICASSP 2021 paper titled ["A Joint Convolutional and Space Quad-Directional LSTM Network for Phase Unwrapping"](https://ieeexplore.ieee.org/document/9414748). 
 
@@ -52,7 +43,7 @@ Project Organization
     |   └── visualization  <- Scripts to create plots
     ├── create_synthetic_phase_dataset.py <- Create datasets
     ├── train_model.py                    <- Train models
-    └── test_model.py                      <- Test models
+    └── test_model.py                     <- Test models
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
