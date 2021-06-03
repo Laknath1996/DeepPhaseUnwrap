@@ -58,15 +58,19 @@ $ git clone https://github.com/Laknath1996/DeepPhaseUnwrap.git
 
 ### Step 2 : Install Dependencies
 
-The use the `requirements.txt` file given in the repository to install the dependencies via `pip`.
+Use the `requirements.txt` file given in the repository to install the dependencies via `pip`.
 
 ````
 $ pip install -r requirements.txt 
 ````
 
+### Step 3 : Install Dependencies
+
+Use the `create_synthetic_phase_dataset.py`, `train_model.py` and `test_model.py` files to create phase datasets, train models, and validate them, respectively.          
+
 ## Tutorial
 
-`notebooks/tutorial.ipynb` describes the execution steps of the network. 
+`notebooks/tutorial.ipynb` describes the specifics and the execution steps of the network. 
 
 ## Authors
 
