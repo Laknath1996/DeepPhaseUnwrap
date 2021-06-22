@@ -5,9 +5,7 @@ A Joint Convolutional and Space Quad-Directional LSTM Network for Phase Unwrappi
   <img src="https://github.com/Laknath1996/DeepPhaseUnwrap/blob/main/reports/figures/summary.jpg">
 </p>
 
-[![Conference](https://img.shields.io/badge/Conference-ICASSP%202021-brightgreen)](https://2021.ieeeicassp.org/)
--
-[![Paper](https://img.shields.io/badge/Paper-IEEEXplore-blue)](https://ieeexplore.ieee.org/document/9414748)
+[![Conference](https://img.shields.io/badge/Conference-ICASSP%202021-brightgreen)](https://2021.ieeeicassp.org/) [![Paper](https://img.shields.io/badge/Paper-IEEEXplore-blue)](https://ieeexplore.ieee.org/document/9414748)
 
 This repository contains the source code for the deep neural arcihetcure proposed by the ICASSP 2021 paper titled ["A Joint Convolutional and Space Quad-Directional LSTM Network for Phase Unwrapping"](https://ieeexplore.ieee.org/document/9414748). 
 
